@@ -1,0 +1,2 @@
+# yasukoGame
+demo
